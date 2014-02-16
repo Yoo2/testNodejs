@@ -3,6 +3,10 @@
  * Module dependencies.
  */
 
+//I'm Changju hahahahahahahahahahahahahahahaha
+//Yoo2 is you too
+//hahahahahahahahahahahahahahahaha
+
 var express = require('express');
 var routes = require('./routes');
 var user = require('./routes/user');
