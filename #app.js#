@@ -4,13 +4,10 @@
  */
 
 //I'm Changju hahahahahahahahahahahahahahahaha
-
 //:(
 //hoho
 //Yoo2 is you too
 //hahahahahahahahahahahahahahahaha
-//sdpfihwokehgokwdgoskdhgks
-
 
 var express = require('express');
 var routes = require('./routes');
