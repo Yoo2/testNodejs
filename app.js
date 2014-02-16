@@ -6,6 +6,7 @@
 //I'm Changju hahahahahahahahahahahahahahahaha
 
 //:(
+//:) Smile~
 //hoho
 //Yoo2 is you too
 //hahahahahahahahahahahahahahahaha
